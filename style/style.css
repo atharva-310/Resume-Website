@@ -43,6 +43,9 @@ nav {
     padding: 0.3rem 0 0.3rem 0;
     margin: 5px 10vw 5px 10vw;
     background-color: #313132;
+    position: fixed;
+    left: 18vw;
+    z-index: 10;
 }
 .nav-menu li a {
     transition: color 0.5s, border-bottom 4s,font-size 0.5s;
